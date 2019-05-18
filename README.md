@@ -1,2 +1,2 @@
-- [work version]('https://zakharovvu.github.io/calendar_films/')
-- [pull requests]('https://github.com/zakharovvu/calendar_films/pull/2/files')
+- [work version](https://zakharovvu.github.io/calendar_films/)
+- [pull requests](https://github.com/zakharovvu/calendar_films/pull/2/files)
