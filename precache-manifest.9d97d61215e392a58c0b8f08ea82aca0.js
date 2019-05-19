@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a0cfabbc8ac891de50187d710297ab21",
+    "revision": "c96572a2afc8307e922e053298a9c4a1",
     "url": "/calendar_films/index.html"
   },
   {
-    "revision": "c4f8c5d7f78a0d2f42b2",
-    "url": "/calendar_films/static/css/main.317a9ee0.chunk.css"
+    "revision": "036f99427fdc65303803",
+    "url": "/calendar_films/static/css/main.ea18ed7b.chunk.css"
   },
   {
     "revision": "4b28d1f284c0b419379c",
     "url": "/calendar_films/static/js/2.5335202a.chunk.js"
   },
   {
-    "revision": "c4f8c5d7f78a0d2f42b2",
-    "url": "/calendar_films/static/js/main.ca0f3bae.chunk.js"
+    "revision": "036f99427fdc65303803",
+    "url": "/calendar_films/static/js/main.0662e163.chunk.js"
   },
   {
     "revision": "cd5d9e884f99a344a162",
