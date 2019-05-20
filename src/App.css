@@ -69,9 +69,7 @@ a {
   text-decoration: none;
   color: #000;
 }
-.square--current {
-  color: rgb(238, 9, 135) !important ;
-}
+
 .language {
   left: 20px;
   top: -10px;
@@ -107,4 +105,7 @@ a {
 }
 .card__detail--color {
   color: rgb(59, 161, 64);
+}
+.calendar__square--day {
+  background: rgb(171, 245, 171);
 }
